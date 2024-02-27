@@ -1,4 +1,4 @@
-# First uni projects
+# Uni projects
 Personal notebooks.
-For computational linguistics course (see https://uclouvain.be/en-cours-2023-linfo2263).
+For course https://uclouvain.be/en-cours-2023-linfo2263.
 
